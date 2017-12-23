@@ -19,6 +19,11 @@ public class Persona {
         this.direccion = direccion;
         this.telefono = telefono;
     }
+    
+    public void buscar(){
+    
+    
+    };
 
     public String getNombre() {
         return nombre;
